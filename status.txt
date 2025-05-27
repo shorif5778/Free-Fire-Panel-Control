@@ -1,1 +1,1 @@
-Panel is safe in bd server
+Panel is safe
