@@ -1,1 +1,1 @@
-Panel is unsafe
+Panel is safe
